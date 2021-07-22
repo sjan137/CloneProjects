@@ -14,6 +14,7 @@
 }
 
 #post-box {
+    background-color: red;
     width: 500px;
     margin: 20px auto;
     padding: 50px;
@@ -21,6 +22,6 @@
     border-radius: 5px;
 }
 
-.card-columns > div {
+.card-columns .card {
     width: 210px;
 }
