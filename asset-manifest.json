@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/CloneProjects/static/js/main.2cfc31ff.js",
-    "index.html": "/CloneProjects/index.html",
-    "main.2cfc31ff.js.map": "/CloneProjects/static/js/main.2cfc31ff.js.map"
+    "main.js": "/CloneProjects.git/static/js/main.2cfc31ff.js",
+    "index.html": "/CloneProjects.git/index.html",
+    "main.2cfc31ff.js.map": "/CloneProjects.git/static/js/main.2cfc31ff.js.map"
   },
   "entrypoints": [
     "static/js/main.2cfc31ff.js"
