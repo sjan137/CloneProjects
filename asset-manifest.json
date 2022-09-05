@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/CloneProjects.git/static/js/main.2cfc31ff.js",
-    "index.html": "/CloneProjects.git/index.html",
-    "main.2cfc31ff.js.map": "/CloneProjects.git/static/js/main.2cfc31ff.js.map"
+    "main.js": "/CloneProjects/static/js/main.4f6b0ad8.js",
+    "index.html": "/CloneProjects/index.html",
+    "main.4f6b0ad8.js.map": "/CloneProjects/static/js/main.4f6b0ad8.js.map"
   },
   "entrypoints": [
-    "static/js/main.2cfc31ff.js"
+    "static/js/main.4f6b0ad8.js"
   ]
 }
